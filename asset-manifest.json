@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/piano/static/css/main.810d73b3.css",
+    "main.js": "/piano/static/js/main.0209e565.js",
+    "static/js/787.0d40c3c2.chunk.js": "/piano/static/js/787.0d40c3c2.chunk.js",
+    "static/media/FNote.mp3": "/piano/static/media/FNote.15bbe1acb3d7d83d80ac.mp3",
+    "static/media/GNote.mp3": "/piano/static/media/GNote.0d254ac4af057d09a28d.mp3",
+    "static/media/ENote.mp3": "/piano/static/media/ENote.74dcc06e2f17709b819e.mp3",
+    "static/media/background.jpg": "/piano/static/media/background.1dcc8ce69f4c99389806.jpg",
+    "static/media/CNote.mp3": "/piano/static/media/CNote.e607a53fd6a92490a884.mp3",
+    "static/media/DNote.mp3": "/piano/static/media/DNote.38a4d7edf6da8484fb7e.mp3",
+    "static/media/BNote.mp3": "/piano/static/media/BNote.dfc14938ca7f6b420dc2.mp3",
+    "static/media/ANote.mp3": "/piano/static/media/ANote.3a95371851edc5f7bab3.mp3",
+    "index.html": "/piano/index.html",
+    "main.810d73b3.css.map": "/piano/static/css/main.810d73b3.css.map",
+    "main.0209e565.js.map": "/piano/static/js/main.0209e565.js.map",
+    "787.0d40c3c2.chunk.js.map": "/piano/static/js/787.0d40c3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.810d73b3.css",
+    "static/js/main.0209e565.js"
+  ]
+}
